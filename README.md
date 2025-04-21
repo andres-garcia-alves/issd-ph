@@ -3,7 +3,7 @@
 Instituto Superior Santo Domingo (ISSD)  
 [Tecnicatura en Inteligencia Artificial y Ciencia de Datos](https://issd.edu.ar/es/inteligencia-artificial-ciencia-datos/)
 
-Repo para la materia Procesamiento del Habla.
+Repo para la materia **Procesamiento del Habla**.
 
 &nbsp;
 
