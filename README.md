@@ -1,9 +1,10 @@
 # ISSD - PH
 
-Instituto Superior Santo Domingo (ISSD)  
-[Tecnicatura en Inteligencia Artificial y Ciencia de Datos](https://issd.edu.ar/es/inteligencia-artificial-ciencia-datos/)
+&nbsp;
 
-Repo para la materia **Procesamiento del Habla**.
+### Repo para la materia **Procesamiento del Habla**.
+
+### Instituto Superior Santo Domingo (ISSD) - [Tecnicatura en Inteligencia Artificial y Ciencia de Datos](https://issd.edu.ar/es/inteligencia-artificial-ciencia-datos/).
 
 &nbsp;
 
@@ -25,7 +26,7 @@ Repo para la materia **Procesamiento del Habla**.
 
 v1.0.0 (2025.03.27) - Versión inicial.  
 v1.0.1 (2025.04.01) - Agrego notebooks de la Clase 01.  
-v1.0.2 (2025.04.21) - Agrego notebooks de las Clases 02-04.
+v1.0.2 (2025.04.21) - Agrego notebooks de las Clases 02-04.  
 v1.0.3 (2025.04.23) - Agrego Trabajo Practico 01.
 
 &nbsp;
