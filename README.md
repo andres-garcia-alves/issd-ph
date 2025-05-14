@@ -20,6 +20,10 @@
 - Clase 04 - Embeddings con Scikit-Learn
 - Clase 04 - Embeddings con SpaCy
 - Trabajo Practico 01 - WebScrapping & Preprocesamiento
+- Clase 05 - Clustering & Reduccion Dimensionalidad
+- Clase 06 - Naive Bayes & Clasificadores
+- Clase 07 - Regularizacion
+- Clase 08 - Topic Modeling
 
 &nbsp;
 
@@ -28,6 +32,7 @@
 v1.0.0 (2025.03.27) - Versión inicial.  
 v1.0.1 (2025.04.01) - Agrego notebooks de la Clase 01.  
 v1.0.2 (2025.04.21) - Agrego notebooks de las Clases 02-04.  
-v1.0.3 (2025.04.23) - Agrego Trabajo Practico 01.
+v1.0.3 (2025.04.23) - Agrego Trabajo Practico 01.  
+v1.0.4 (2025.05.14) - Agrego notebooks de las Clases 05-08.  
 
 &nbsp;
