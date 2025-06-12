@@ -26,6 +26,7 @@
 - Clase 08 - Topic Modeling
 - Clase 10 - Reconocimiento de Entidades (NER)
 - Clase 11 - Modelos Secuenciales
+- Trabajo Practico 04 - Information Retrieval Chatbot
 
 &nbsp;
 
@@ -38,5 +39,6 @@ v1.0.3 (2025.04.23) - Agrego Trabajo Practico 01.
 v1.0.4 (2025.05.14) - Agrego notebooks de las Clases 05-08.  
 v1.0.5 (2025.05.22) - Agrego notebooks de la Clase 10.  
 v1.0.6 (2025.06.11) - Agrego notebooks de la Clase 11.  
+v1.0.7 (2025.06.12) - Agrego Trabajo Practico 04.  
 
 &nbsp;
